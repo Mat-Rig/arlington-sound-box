@@ -1,5 +1,4 @@
 import './App.css';
-import bar from './bar.jpg';
 
 function App() {
 
